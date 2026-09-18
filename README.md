@@ -24,7 +24,7 @@ The project explores revenue, product category performance, top-selling items, a
 * Calculated fields
 * Interactive dashboards
 
-![Dashboard Screenshot](Dashboard_Image.png)
+![Dashboard Screenshot](Dashboard 1.png)
 
 ## What I Learned
 
